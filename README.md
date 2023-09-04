@@ -1,5 +1,11 @@
 # Titanic Dataset Exploratory Data Analysis (EDA)
 
+### Screen1
+![scatter](Screens/scatter.png)
+
+### Screen2
+![pivot](Screens/pivot1.png)
+
 ## Overview
 This repository contains an Exploratory Data Analysis (EDA) of the Titanic dataset using Microsoft Excel. EDA is a critical step in data analysis, where we explore and summarize the main characteristics, patterns, and relationships in the data.
 
